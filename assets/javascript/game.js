@@ -43,7 +43,7 @@ document.onkeyup = function(event) {
         "<p>Wins: " + wins + "</p>" +
         "<p>Loses: " + losses + "</p>" +
         "<p>Guesses Left: " + guessesLeft + "</p>" +
-        "<p>Guesses so far: " + lettersGuessed + "</p>";
+        "<p>Your Guesses so far: " + lettersGuessed + "</p>";
 
     document.getElementById("game").innerHTML = html;
 
