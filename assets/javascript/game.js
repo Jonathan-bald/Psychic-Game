@@ -41,7 +41,7 @@ document.onkeyup = function(event) {
         "<h1>The Psychic Game</h1>" +
         "<p>Guess what letter I'm thinking of</p>" +
         "<p>Wins: " + wins + "</p>" +
-        "<p>Loses: " + losses + "</p>" +
+        "<p>Losses: " + losses + "</p>" +
         "<p>Guesses Left: " + guessesLeft + "</p>" +
         "<p>Incorrect Guesses: " + lettersGuessed + "</p>";
 
