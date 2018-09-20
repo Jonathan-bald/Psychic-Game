@@ -46,7 +46,7 @@ document.onkeyup = function(event) {
         "<p>Incorrect Guesses: " + lettersGuessed + "</p>";
 
     document.getElementById("game").innerHTML = html;
-   //innerHTML allows your page to change and return.
+   //innerHTML allows your page to change and return.*//
 
     console.log("Your Guess: " + userGuess);
     console.log("Computer Guess: " + computerGuess);
